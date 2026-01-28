@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Cookie base (circle) -->
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M50,50m-45,0a45,45 0,1 1,90 0a45,45 0,1 1,-90 0" />
+
+    <!-- Cookie edge shadow -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M50,50m-45,0a45,45 0,0 1,90 0a45,45 0,0 1,-90 0M50,50m-40,0a40,40 0,1 0,80 0a40,40 0,1 0,-80 0" />
+
+    <!-- Chocolate chips -->
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M30,30m-6,0a6,5 0,1 1,12 0a6,5 0,1 1,-12 0" />
+
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M55,25m-5,0a5,4 0,1 1,10 0a5,4 0,1 1,-10 0" />
+
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M70,40m-6,0a6,5 0,1 1,12 0a6,5 0,1 1,-12 0" />
+
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M25,55m-5,0a5,4 0,1 1,10 0a5,4 0,1 1,-10 0" />
+
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M50,50m-7,0a7,6 0,1 1,14 0a7,6 0,1 1,-14 0" />
+
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M65,65m-5,0a5,4 0,1 1,10 0a5,4 0,1 1,-10 0" />
+
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M35,70m-6,0a6,5 0,1 1,12 0a6,5 0,1 1,-12 0" />
+
+    <path
+        android:fillColor="#3D2314"
+        android:pathData="M55,75m-4,0a4,3 0,1 1,8 0a4,3 0,1 1,-8 0" />
+
+    <!-- Subtle highlights on chips -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M28,28m-2,0a2,1.5 0,1 1,4 0a2,1.5 0,1 1,-4 0" />
+
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M48,48m-2,0a2,1.5 0,1 1,4 0a2,1.5 0,1 1,-4 0" />
+
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M68,38m-2,0a2,1.5 0,1 1,4 0a2,1.5 0,1 1,-4 0" />
+
+</vector>

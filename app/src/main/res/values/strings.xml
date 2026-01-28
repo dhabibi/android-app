@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cookie Clicker</string>
+    <string name="cookie_count">%s Cookies</string>
+    <string name="per_click">%s per click</string>
+    <string name="per_second">%d per second</string>
+    <string name="separator">|</string>
+    <string name="shop_title">Shop</string>
+    <string name="buy_auto_clicker">Auto Clicker (%s cookies)</string>
+    <string name="buy_double_click">Double Click Power (%s cookies)</string>
+    <string name="auto_clickers_owned">Owned: %d</string>
+    <string name="cookie_button_description">Tap to get cookies!</string>
+</resources>
