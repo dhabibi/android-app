@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cookie_brown">#D2691E</color>
+    <color name="cookie_dark">#8B4513</color>
+    <color name="background">#FFF8E7</color>
+    <color name="shop_background">#FFE4C4</color>
+    <color name="text_primary">#3E2723</color>
+    <color name="text_secondary">#6D4C41</color>
+    <color name="button_color">#D2691E</color>
+    <color name="button_secondary">#8B4513</color>
+    <color name="white">#FFFFFF</color>
+</resources>

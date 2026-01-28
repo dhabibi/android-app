@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CookieClicker" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/cookie_brown</item>
+        <item name="colorPrimaryDark">@color/cookie_dark</item>
+        <item name="colorAccent">@color/cookie_brown</item>
+        <item name="android:statusBarColor">@color/cookie_dark</item>
+        <item name="android:navigationBarColor">@color/shop_background</item>
+    </style>
+</resources>
