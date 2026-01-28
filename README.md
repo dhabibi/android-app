@@ -1,2 +1,3 @@
 # android-app
-Android application project
+
+Android application project.
